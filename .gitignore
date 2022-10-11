@@ -1,3 +1,6 @@
 ini-env/
 *.csv
 *.txt
+*.img
+*.png
+*.jpg
