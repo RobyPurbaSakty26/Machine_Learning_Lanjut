@@ -4,3 +4,5 @@ ini-env/
 *.img
 *.png
 *.jpg
+*gradle/
+*idea/
